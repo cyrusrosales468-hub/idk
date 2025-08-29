@@ -235,11 +235,11 @@
                 <div class="letter-content">
                     <p>wazzup.</p>
                     
-                    <p>mark ancheta alyas kalbo.</p>
+                    <p>Ancheta alyas kalbo.</p>
                     
                     <p>crush kita aya.</p>
                     
-                    <p>sheesh.</p>
+                    <p>hell yeah.</p>
                 </div>
                 
                 <div class="letter-signature">
