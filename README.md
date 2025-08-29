@@ -230,16 +230,16 @@
             </div>
             
             <div class="letter">
-                <div class="letter-date">November 17, 2023</div>
+                <div class="letter-date">August 29, 2025</div>
                 
                 <div class="letter-content">
-                    <p>I've been wanting to tell you this for a while now.</p>
+                    <p>wazzup.</p>
                     
-                    <p>Every time I see you, my heart skips a beat. Your smile, your laugh, the way you see the world - it all captivates me.</p>
+                    <p>mark ancheta alyas kalbo.</p>
                     
-                    <p>I admire your strength and kindness more than words can express. You've become someone I think about constantly.</p>
+                    <p>crush kita aya.</p>
                     
-                    <p>This is my confession: I'm falling for you, and I needed you to know.</p>
+                    <p>sheesh.</p>
                 </div>
                 
                 <div class="letter-signature">
